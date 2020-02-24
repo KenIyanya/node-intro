@@ -1,0 +1,22 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "node intro",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenIyanya/node-intro.git"
+  },
+  "author": "ken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenIyanya/node-intro/issues"
+  },
+  "homepage": "https://github.com/KenIyanya/node-intro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
